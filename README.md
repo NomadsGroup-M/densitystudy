@@ -1,8 +1,6 @@
 # densitystudy
-encounter-traffic
 
-Code for "Learning the Relation Between Mobile Encounters and Web Traffic Patterns: A Data-driven Study" MSWiM 2018 (Tech Report: https://arxiv.org/abs/1808.03842)
-
+Codes for density paper study.
 Please feel free to contact the authors:
 Mimonah Alqathrady mimonahalqathrady@gmail.com
 Ahmed Helmy helmy@ufl.edu
