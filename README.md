@@ -9,6 +9,8 @@ Ahmed Helmy helmy@ufl.edu
 
 Note: If you use any of these tools, code or data, please make sure to cite our correspnding paper(s).
 
+https://dl.acm.org/citation.cfm?id=3242143
+
 Pre-built Docker image
 
 Link:https://hub.docker.com/r/nomadsgroupm/densitystudy/
