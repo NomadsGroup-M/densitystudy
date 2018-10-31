@@ -2,7 +2,9 @@
 
 Codes for density paper study.
 Please feel free to contact the authors:
+
 Mimonah Alqathrady mimonahalqathrady@gmail.com
+
 Ahmed Helmy helmy@ufl.edu
 
 Note: If you use any of these tools, code or data, please make sure to cite our correspnding paper(s).
